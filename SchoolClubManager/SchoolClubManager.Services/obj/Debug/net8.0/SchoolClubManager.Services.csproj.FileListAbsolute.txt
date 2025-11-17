@@ -1,0 +1,17 @@
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Services.deps.json
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Services.dll
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Services.pdb
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Business.dll
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Data.dll
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Business.pdb
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\bin\Debug\net8.0\SchoolClubManager.Data.pdb
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.csproj.AssemblyReference.cache
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.AssemblyInfoInputs.cache
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.AssemblyInfo.cs
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolCl.72AC2FA1.Up2Date
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.dll
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\refint\SchoolClubManager.Services.dll
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\SchoolClubManager.Services.pdb
+C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Services\obj\Debug\net8.0\ref\SchoolClubManager.Services.dll
