@@ -1,48 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{90436307-10DE-4DD4-82CC-C4F3F28520AD}|SchoolClubManager.Data\\SchoolClubManager.Data.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.data\\repositories\\sqliteprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90436307-10DE-4DD4-82CC-C4F3F28520AD}|SchoolClubManager.Data\\SchoolClubManager.Data.csproj|solutionrelative:schoolclubmanager.data\\repositories\\sqliteprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90436307-10DE-4DD4-82CC-C4F3F28520AD}|SchoolClubManager.Data\\SchoolClubManager.Data.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.data\\repositories\\inmemoryprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90436307-10DE-4DD4-82CC-C4F3F28520AD}|SchoolClubManager.Data\\SchoolClubManager.Data.csproj|solutionrelative:schoolclubmanager.data\\repositories\\inmemoryprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|solutionrelative:schoolclubmanager.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.business\\schoolclubmanager.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\schoolclubmanager.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.business\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.business\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.business\\models\\clubteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\models\\clubteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.business\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.business\\models\\clubproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\models\\clubproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|c:\\users\\user\\.cursor\\schoolclubmanager\\schoolclubmanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|solutionrelative:schoolclubmanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,127 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqliteProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\Repositories\\SqliteProjectRepository.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Data\\Repositories\\SqliteProjectRepository.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\Repositories\\SqliteProjectRepository.cs",
-              "RelativeToolTip": "SchoolClubManager.Data\\Repositories\\SqliteProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:20:07.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InMemoryProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\Repositories\\InMemoryProjectRepository.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Data\\Repositories\\InMemoryProjectRepository.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\Repositories\\InMemoryProjectRepository.cs",
-              "RelativeToolTip": "SchoolClubManager.Data\\Repositories\\InMemoryProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:20:02.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SchoolClubManager.Business.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
-              "RelativeDocumentMoniker": "SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
-              "RelativeToolTip": "SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-17T15:19:57.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Business\\Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\TaskItem.cs",
-              "RelativeToolTip": "SchoolClubManager.Business\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:19:54.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Business\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\Student.cs",
-              "RelativeToolTip": "SchoolClubManager.Business\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:19:53.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClubTeam.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\ClubTeam.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Business\\Models\\ClubTeam.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\ClubTeam.cs",
-              "RelativeToolTip": "SchoolClubManager.Business\\Models\\ClubTeam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:19:52.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mentor.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\Mentor.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Business\\Models\\Mentor.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\Mentor.cs",
-              "RelativeToolTip": "SchoolClubManager.Business\\Models\\Mentor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:19:51.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClubProject.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\ClubProject.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.Business\\Models\\ClubProject.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\Models\\ClubProject.cs",
-              "RelativeToolTip": "SchoolClubManager.Business\\Models\\ClubProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:19:49.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.App\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.App\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.App\\Program.cs",
-              "RelativeToolTip": "SchoolClubManager.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:18:50.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.App\\MainForm.cs",
-              "RelativeDocumentMoniker": "SchoolClubManager.App\\MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.App\\MainForm.cs",
-              "RelativeToolTip": "SchoolClubManager.App\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T15:18:43.252Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1i2/r9WF4rc=",
+  "dgSpecHash": "WAYx10uPBY0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.App\\SchoolClubManager.App.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\SchoolClubManager.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite\\8.0.10\\microsoft.data.sqlite.8.0.10.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.10\\microsoft.data.sqlite.core.8.0.10.nupkg.sha512",

@@ -172,7 +172,7 @@ public partial class MainForm : Form
         notesTextBox.Text = project.Notes;
         teamNameTextBox.Text = project.Team.Name;
         teamMottoTextBox.Text = project.Team.Motto;
-        teamMembersTextBox.Text = string.Join(Environment.NewLine, project.Team.Members.Select(m => m.ToString()));
+        teamMembersTextBox.Text = string.Join(Environment.NewLine, project.Team.Members.Select(m => $"{m.FirstName} {m.LastName}".Trim()));
         studentLeadTextBox.Text = $"{project.StudentLead.FirstName} {project.StudentLead.LastName}".Trim();
         studentSubjectTextBox.Text = project.StudentLead.FavoriteSubject;
         var grade = Math.Clamp(project.StudentLead.Grade, (int)studentGradeNumeric.Minimum, (int)studentGradeNumeric.Maximum);

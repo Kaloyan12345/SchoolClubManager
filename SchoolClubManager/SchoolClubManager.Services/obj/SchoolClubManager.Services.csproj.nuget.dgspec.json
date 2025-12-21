@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
         "projectName": "SchoolClubManager.Business",
-        "projectPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj",
         "projectName": "SchoolClubManager.Data",
-        "projectPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj": {
-                "projectPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj",
         "projectName": "SchoolClubManager.Services",
-        "projectPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\SchoolClubManager.Services.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Services\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +175,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj": {
-                "projectPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\SchoolClubManager.Business.csproj"
               },
-              "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\.cursor\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Data\\SchoolClubManager.Data.csproj"
               }
             }
           }

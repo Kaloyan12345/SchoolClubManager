@@ -9,3 +9,15 @@ C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net
 C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\refint\SchoolClubManager.Business.dll
 C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.pdb
 C:\Users\user\.cursor\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\ref\SchoolClubManager.Business.dll
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\bin\Debug\net8.0\SchoolClubManager.Business.deps.json
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\bin\Debug\net8.0\SchoolClubManager.Business.dll
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\bin\Debug\net8.0\SchoolClubManager.Business.pdb
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.sourcelink.json
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.dll
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\refint\SchoolClubManager.Business.dll
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\SchoolClubManager.Business.pdb
+C:\Users\user\Documents\GitHub\SchoolClubManager\SchoolClubManager\SchoolClubManager.Business\obj\Debug\net8.0\ref\SchoolClubManager.Business.dll
