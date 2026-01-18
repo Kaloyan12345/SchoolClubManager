@@ -262,6 +262,10 @@ namespace SchoolClubManager.App
             builder.AppendLine($"Статус: {project.Status}");
             builder.AppendLine($"Екип: {project.Team.Name} ({project.Team.Motto})");
             builder.AppendLine($"Водещ ученик: {project.StudentLead}");
+            if (!string.IsNullOrWhiteSpace(project.StudentLead.FavoriteSubject))
+            {
+                builder.AppendLine($"Любим предмет на лидера: {project.StudentLead.FavoriteSubject}");
+            }
             builder.AppendLine("Членове:");
 
             foreach (var member in project.Team.Members)

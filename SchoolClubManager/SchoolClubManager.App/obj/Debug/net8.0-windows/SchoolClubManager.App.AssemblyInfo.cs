@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolClubManager.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d3f8468ca1679a25e14adb964fc8523a49d78a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d621d46e8b385ec06fc874e2000dace041802d57")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolClubManager.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolClubManager.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
