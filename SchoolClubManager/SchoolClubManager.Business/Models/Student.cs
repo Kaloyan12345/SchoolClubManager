@@ -5,9 +5,18 @@ public class Student
     public Guid Id { get; set; } = Guid.NewGuid();
     public string FirstName { get; set; } = string.Empty;
     public string LastName { get; set; } = string.Empty;
-    public int Grade { get; set; }
+    public int Grade { get; set; } = 0;
     public string FavoriteSubject { get; set; } = string.Empty;
+    public override string ToString()
+    {
+        var name = $"{FirstName} {LastName}".Trim();
 
-    public override string ToString() => $"{FirstName} {LastName} ({Grade} ΠΊΠ».)";
+        if (Grade > 0)
+        {
+            return $"{name} ({Grade} κλ.)";
+        }
+
+        return name;
+    }
 }
 

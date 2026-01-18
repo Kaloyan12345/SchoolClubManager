@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF356E6-4D6A-42CB-8707-61D02B97ED68}|SchoolClubManager.Tests\\SchoolClubManager.Tests.csproj|c:\\users\\user\\documents\\github\\schoolclubmanager\\schoolclubmanager\\schoolclubmanager.tests\\studentservicecrudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF356E6-4D6A-42CB-8707-61D02B97ED68}|SchoolClubManager.Tests\\SchoolClubManager.Tests.csproj|solutionrelative:schoolclubmanager.tests\\studentservicecrudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|c:\\users\\user\\documents\\github\\schoolclubmanager\\schoolclubmanager\\schoolclubmanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|solutionrelative:schoolclubmanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3E0ED6-6A4E-431E-A4E3-01E67371087E}|SchoolClubManager.Services\\SchoolClubManager.Services.csproj|c:\\users\\user\\documents\\github\\schoolclubmanager\\schoolclubmanager\\schoolclubmanager.services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3E0ED6-6A4E-431E-A4E3-01E67371087E}|SchoolClubManager.Services\\SchoolClubManager.Services.csproj|solutionrelative:schoolclubmanager.services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|c:\\users\\user\\documents\\github\\schoolclubmanager\\schoolclubmanager\\schoolclubmanager.app\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|solutionrelative:schoolclubmanager.app\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\schoolclubmanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F16928D-7A79-4C2D-A24F-E3D4E17F3E1F}|SchoolClubManager.App\\SchoolClubManager.App.csproj|solutionrelative:schoolclubmanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|c:\\users\\user\\documents\\github\\schoolclubmanager\\schoolclubmanager\\schoolclubmanager.business\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F278BCAF-9A11-45AF-A0A6-B8B721DAD1AE}|SchoolClubManager.Business\\SchoolClubManager.Business.csproj|solutionrelative:schoolclubmanager.business\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolClubManager.Business\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Business\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolClubManager.Business\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:00:59.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SchoolClubManager.Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Services\\StudentService.cs",
+              "RelativeToolTip": "SchoolClubManager.Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:58:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolClubManager.App\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\MainForm.cs",
+              "RelativeToolTip": "SchoolClubManager.App\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:55:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolClubManager.App\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\MainForm.cs [Design]",
+              "RelativeToolTip": "SchoolClubManager.App\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:55:16.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolClubManager.App\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.App\\MainForm.Designer.cs",
+              "RelativeToolTip": "SchoolClubManager.App\\MainForm.Designer.cs",
+              "ViewState": "AgIAABoCAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:57:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentServiceCrudTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Tests\\StudentServiceCrudTests.cs",
+              "RelativeDocumentMoniker": "SchoolClubManager.Tests\\StudentServiceCrudTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\SchoolClubManager\\SchoolClubManager\\SchoolClubManager.Tests\\StudentServiceCrudTests.cs",
+              "RelativeToolTip": "SchoolClubManager.Tests\\StudentServiceCrudTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:14:23.825Z",
+              "EditorCaption": ""
             }
           ]
         }

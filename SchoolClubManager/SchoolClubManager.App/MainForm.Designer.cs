@@ -5,30 +5,21 @@ namespace SchoolClubManager.App;
 
 partial class MainForm
 {
-    /// <summary>
-    ///  Required designer variable.
-    /// </summary>
     private System.ComponentModel.IContainer components = null;
 
-    /// <summary>
-    ///  Clean up any resources being used.
-    /// </summary>
-    /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+
     protected override void Dispose(bool disposing)
     {
         if (disposing && (components != null))
         {
             components.Dispose();
         }
+
         base.Dispose(disposing);
     }
 
     #region Windows Form Designer generated code
 
-    /// <summary>
-    ///  Required method for Designer support - do not modify
-    ///  the contents of this method with the code editor.
-    /// </summary>
     private void InitializeComponent()
     {
         projectsListBox = new ListBox();
@@ -66,7 +57,10 @@ partial class MainForm
         label14 = new Label();
         notesTextBox = new TextBox();
         label15 = new Label();
-        tasksTextBox = new TextBox();
+        newTaskTextBox = new TextBox();
+        tasksCheckedListBox = new CheckedListBox();
+        removeTaskButton = new Button();
+        addTaskButton = new Button();
         ((System.ComponentModel.ISupportInitialize)studentGradeNumeric).BeginInit();
         SuspendLayout();
         // 
@@ -402,27 +396,59 @@ partial class MainForm
         label15.AutoSize = true;
         label15.Location = new Point(607, 509);
         label15.Name = "label15";
-        label15.Size = new Size(238, 20);
+        label15.Size = new Size(225, 20);
         label15.TabIndex = 34;
-        label15.Text = "Задачи ([x] означава изпълнена)";
+        label15.Text = "Задачи (отметни изпълнените)";
         // 
-        // tasksTextBox
+        // newTaskTextBox
         // 
-        tasksTextBox.AcceptsReturn = true;
-        tasksTextBox.Location = new Point(607, 533);
-        tasksTextBox.Margin = new Padding(3, 4, 3, 4);
-        tasksTextBox.Multiline = true;
-        tasksTextBox.Name = "tasksTextBox";
-        tasksTextBox.ScrollBars = ScrollBars.Vertical;
-        tasksTextBox.Size = new Size(285, 140);
-        tasksTextBox.TabIndex = 35;
+        newTaskTextBox.Location = new Point(607, 644);
+        newTaskTextBox.Margin = new Padding(3, 4, 3, 4);
+        newTaskTextBox.Name = "newTaskTextBox";
+        newTaskTextBox.ScrollBars = ScrollBars.Vertical;
+        newTaskTextBox.Size = new Size(285, 27);
+        newTaskTextBox.TabIndex = 35;
+        // 
+        // tasksCheckedListBox
+        // 
+        tasksCheckedListBox.CheckOnClick = true;
+        tasksCheckedListBox.FormattingEnabled = true;
+        tasksCheckedListBox.Location = new Point(607, 533);
+        tasksCheckedListBox.Name = "tasksCheckedListBox";
+        tasksCheckedListBox.Size = new Size(285, 92);
+        tasksCheckedListBox.TabIndex = 36;
+        // 
+        // removeTaskButton
+        // 
+        removeTaskButton.Location = new Point(751, 693);
+        removeTaskButton.Margin = new Padding(3, 4, 3, 4);
+        removeTaskButton.Name = "removeTaskButton";
+        removeTaskButton.Size = new Size(141, 30);
+        removeTaskButton.TabIndex = 37;
+        removeTaskButton.Text = "Премахни задача";
+        removeTaskButton.UseVisualStyleBackColor = true;
+        removeTaskButton.Click += RemoveTaskButton_Click;
+        // 
+        // addTaskButton
+        // 
+        addTaskButton.Location = new Point(607, 693);
+        addTaskButton.Margin = new Padding(3, 4, 3, 4);
+        addTaskButton.Name = "addTaskButton";
+        addTaskButton.Size = new Size(138, 30);
+        addTaskButton.TabIndex = 38;
+        addTaskButton.Text = "Добави задача";
+        addTaskButton.UseVisualStyleBackColor = true;
+        addTaskButton.Click += AddTaskButton_Click;
         // 
         // MainForm
         // 
         AutoScaleDimensions = new SizeF(8F, 20F);
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(1280, 800);
-        Controls.Add(tasksTextBox);
+        Controls.Add(addTaskButton);
+        Controls.Add(removeTaskButton);
+        Controls.Add(tasksCheckedListBox);
+        Controls.Add(newTaskTextBox);
         Controls.Add(label15);
         Controls.Add(notesTextBox);
         Controls.Add(label14);
@@ -505,5 +531,8 @@ partial class MainForm
     private Label label14;
     private TextBox notesTextBox;
     private Label label15;
-    private TextBox tasksTextBox;
+    private TextBox newTaskTextBox;
+    private CheckedListBox tasksCheckedListBox;
+    private Button removeTaskButton;
+    private Button addTaskButton;
 }
